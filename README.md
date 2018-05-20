@@ -1,7 +1,7 @@
 # ES6 Node package boilerplate
 
 [![Build Status](https://travis-ci.org/YoungLionsGroup/node-pkg-boilerplate.svg?branch=master)](https://travis-ci.org/YoungLionsGroup/node-pkg-boilerplate)
-
+[![Inline docs](https://inch-ci.org/github/YoungLionsGroup/node-pkg-boilerplate.svg?branch=masterr)](https://inch-ci.org/github/YoungLionsGroup/node-pkg-boilerplate.svg?branch=master)
 
 <p align="center">
     <a href="https://younglions.pl/yl-qualityassurance/" target="_blank">
