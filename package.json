@@ -1,5 +1,5 @@
 {
-  "name": "@younglions/es6-package-boilerplate",
+  "name": "node-pkg-boilerplate",
   "version": "0.0.0",
   "description": "This is a boilerplate for node package creation based on the article of @bookercodes",
   "main": "./dist/index.js",
