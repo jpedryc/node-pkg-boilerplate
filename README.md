@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/YoungLionsGroup/node-pkg-boilerplate.svg?branch=master)](https://travis-ci.org/YoungLionsGroup/node-pkg-boilerplate)
 [![Inline docs](https://inch-ci.org/github/YoungLionsGroup/node-pkg-boilerplate.svg?branch=masterr)](https://inch-ci.org/github/YoungLionsGroup/node-pkg-boilerplate.svg?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/45289ebac56581f15998/maintainability)](https://codeclimate.com/github/YoungLionsGroup/node-pkg-boilerplate/maintainability)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/YoungLionsGroup/node-pkg-boilerplate/issues)
 
 <p align="center">
     <a href="https://younglions.pl/yl-qualityassurance/" target="_blank">
