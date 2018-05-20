@@ -38,7 +38,7 @@ The main changes:
 ## Getting Started
 
 ```Bash
-git clone https://github.com/YoungLionsGroup/node-pkg-boilerplate.git
+git clone https://github.com/YoungLionsGroup/node-pkg-boilerplate.git YOUR_PACKAGE_NAME
 ```
 
 
@@ -49,7 +49,7 @@ cd node-pkg-boilerplate
 npm install
 ```
 
-Eventually, you would want to change the package name, root directory and source classes & functions to your own 
+Eventually, you would want to change the package.json, source classes & functions to your own 
 names.
 
 ## Running the tests
