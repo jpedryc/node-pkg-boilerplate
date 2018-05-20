@@ -1,0 +1,34 @@
+{
+  "name": "@younglions/es6-package-boilerplate",
+  "version": "0.0.0",
+  "description": "This is a boilerplate for node package creation based on the article of @bookercodes",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "make test",
+    "build": "babel src --presets babel-preset-env --out-dir dist",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "es6",
+    "babel",
+    "package",
+    "package",
+    "creation",
+    "npm",
+    "new",
+    "package",
+    "npm",
+    "publish",
+    "transpilation"
+  ],
+  "author": "Jan Pedryc <jan.pedryc@younglions.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
